@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    font-family: verdana;
+}
+
+h2 {
+    color: blue;
+    font-family: monospace;
+}
+
+p{
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 150px;
+    border:2px solid black;
+}
